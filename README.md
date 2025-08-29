@@ -52,7 +52,8 @@ In the .env file, set the values for the following environment variables for aut
 ```
 AZURE_VOICE_LIVE_ENDPOINT=your_endpointV  
 OICE_LIVE_MODEL=your_model  
-AZURE_VOICE_LIVE_API_VERSION=2025-05-01-preview  AZURE_VOICE_LIVE_API_KEY=your_api_key # Only required if using API key authentication
+AZURE_VOICE_LIVE_API_VERSION=2025-05-01-preview
+AZURE_VOICE_LIVE_API_KEY=your_api_key # Only required if using API key authentication
 
 ```
 
